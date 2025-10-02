@@ -1,5 +1,6 @@
 # Spicetify-Update-Script
 A couple simple scripts for updating Spictify.
+
 PowerShell (.ps1) and Batch (.bat) Scripts
 
 
