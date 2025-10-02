@@ -1,8 +1,11 @@
 # Spicetify-Update-Script
-A couple simple scripts for updating Spictify.
+A simple script for updating Spictify, without needing to type the one command. 
 
-PowerShell (.ps1) and Batch (.bat) Scripts
+Your first gonna need Spotify and Spicetify.
 
+Spotify: (Download directly from Spotify) https://spotify.com/download
+
+Spicetify: [https://spicetify.app](https://spicetify.app/docs/getting-started)
 
 Code for those who fear being infested with a virus
 
