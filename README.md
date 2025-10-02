@@ -9,7 +9,7 @@ Spotify: (Download Directly From Spotify, not the Microsoft Store) https://spoti
 
 Spicetify: [https://spicetify.app](https://spicetify.app/docs/getting-started)
 
-Code for those who fear being infested with a virus
+## Code for those who fear being infested with a virus
 
 # SpicetifyUpdate.ps1
 
