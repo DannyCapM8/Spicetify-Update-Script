@@ -48,8 +48,6 @@ REM This script runs the Spicetify update command to update Spicetify. For chang
 
 echo If you've paid for this script, you have been scammed. This script is free. You can get it from my GitHub repository: https://github.com/DannyCapM8/Spicetify-Update-Script
 
-echo.
-
 echo Waiting 5 seconds...
 
 timeout /t 5 /nobreak > nul
