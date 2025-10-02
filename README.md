@@ -43,9 +43,10 @@ Exit
 
 # SpicetifyUpdate.bat
 
-REM This script runs the Spicetify update command to update Spicetify. For changing the wait times, edit the numeric values in the timeout commands below. 
 
 @echo off
+
+REM This script runs the Spicetify update command to update Spicetify. For changing the wait times, edit the numeric values in the timeout commands below. 
 
 echo If you've paid for this script, you have been scammed. This script is free. You can get it from my GitHub repository: https://github.com/DannyCapM8/Spicetify-Update-Script
 
