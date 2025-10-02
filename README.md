@@ -3,7 +3,8 @@ A simple script for updating Spictify, without needing to type the one command.
 
 Your first gonna need Spotify and Spicetify.
 
-Spotify: https://spotify.com {(Download directly from Spotify) [https://spotify.com/download](https://download.scdn.co/SpotifySetup.exe)}
+Spotify: https://spotify.com
+(Link to download without leaving page) [https://spotify.com/download](https://download.scdn.co/SpotifySetup.exe)
 
 Spicetify: [https://spicetify.app](https://spicetify.app/docs/getting-started)
 
