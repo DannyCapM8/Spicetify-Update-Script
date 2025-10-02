@@ -10,15 +10,15 @@ Code for those who fear being infested with a virus
 
 #This script runs the Spicetify update command to update Spicetify.
 
-Write-Host "If you've paid for this script, you have been scammed. This script is free. You can get it from my GitHub repository: https://github.com/DannyCapM8/Spicetify-Update-Script"
-
-Start-Sleep -Seconds $waitTimeSeconds1
-
 #Set the number of seconds to wait, you can change these values if needed.
 
 $waitTimeSeconds1 = 5
 
 $waitTimeSeconds2 = 15
+
+Write-Host "If you've paid for this script, you have been scammed. This script is free. You can get it from my GitHub repository: https://github.com/DannyCapM8/Spicetify-Update-Script"
+
+Start-Sleep -Seconds $waitTimeSeconds1
 
 #Run the Spicetify update command
 
